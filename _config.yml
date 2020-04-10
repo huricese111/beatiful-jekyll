@@ -34,6 +34,8 @@ avatar: "/img/avatar-icon.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
+bigimg:"/image/path.jpg"
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
