@@ -34,7 +34,7 @@ avatar: "/img/avatar-icon.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
-bigimg:"/image/path.jpg"
+bigimg: "/image/path.jpg"
 
 # --- Background colour/image options --- #
 
